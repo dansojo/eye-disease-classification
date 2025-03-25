@@ -40,8 +40,8 @@
 
 📌 **데이터 불균형 심각 → 불균형 해소 기법 필요**
 
-#### 📊 시각화: 클래스별 이미지 개수
-<img src="./images/class_ratios.png" width="600">
+#### 📊 시각화: 클래스별 이미지 개수 비율
+![Image](https://github.com/user-attachments/assets/eee0fa53-b1ed-4f5b-b0a8-f5f542e6629e)
 
 ---
 
@@ -53,7 +53,7 @@
 📌 CNN이 밝기 보정 가능 → 별도 정규화 X
 
 #### 📊 시각화: 클래스별 평균 밝기
-<img src="./images/class_brightness.png" width="600">
+![Image](https://github.com/user-attachments/assets/b537f891-2c79-4a70-91f5-77759edfd41c)
 
 ---
 
@@ -65,7 +65,7 @@
 CNN이 자동 조정하므로 **적용하지 않기로 결정**
 
 #### 📊 시각화: 클래스별 대비 값
-<img src="./images/class_calculate_contrast.png" width="600">
+![Image](https://github.com/user-attachments/assets/5160b130-550c-47ea-a891-12c45db9067b)
 
 ---
 
@@ -83,7 +83,7 @@ CNN이 자동 조정하므로 **적용하지 않기로 결정**
 📌 **Grayscale 변환 및 RGB 정규화 생략**
 
 #### 📊 시각화: 클래스별 RGB 평균값
-<img src="./images/class_RGB.png" width="600">
+![Image](https://github.com/user-attachments/assets/742512cf-8c89-4886-9670-1f068a977b79)
 
 ---
 
