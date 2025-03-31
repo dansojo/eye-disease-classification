@@ -68,7 +68,7 @@
 ![Image](https://github.com/user-attachments/assets/cbf5b70b-a39b-4443-8b1b-2eca86f54456)
 
 #### 📊 시각화: 전체 데이터 구성 (Pie Chart)
-<img src="https://github.com/user-attachments/assets/8f2b5d7d-dc9b-4832-a92a-41ccedc6c38f" style="width: 50%;">
+<img src="https://github.com/user-attachments/assets/8f2b5d7d-dc9b-4832-a92a-41ccedc6c38f" style="width: 25%;">
 
 ---
 
